@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Obituary - [Full Name]</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 40px auto;
+            max-width: 700px;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        header img {
+            max-width: 180px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            margin-bottom: 5px;
+        }
+        .dates {
+            font-size: 1rem;
+            color: #666;
+        }
+        section {
+            margin-bottom: 35px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 0.9rem;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <!-- OPTIONAL: Add image -->
+    <!-- <img src="path-to-photo.jpg" alt="Photo of [Full Name]" /> -->
+    <h1>[Full Name]</h1>
+    <p class="dates">[Date of Birth] – [Date of Passing]</p>
+</header>
+
+<section>
+    <h2>Obituary</h2>
+    <p>
+        [Full Name], aged [Age], of [City, State], passed away on [Date] surrounded by [family/loved ones].
+        [He/She/They] was born on [Birthdate] in [Birthplace] to [Parents' Names].
+    </p>
+    <p>
+        [Insert life story, accomplishments, career highlights, education, personality traits, and meaningful contributions.]
+    </p>
+</section>
+
+<section>
+    <h2>Family</h2>
+    <p>
+        [Name] is survived by [list immediate family members — spouse, children, parents, siblings].
+    </p>
+    <p>
+        [He/She/They] is preceded in death by [list individuals, if applicable].
+    </p>
+</section>
+
+<section>
+    <h2>Service Details</h2>
+    <p><strong>Visitation:</strong> [Date, Time, Location]</p>
+    <p><strong>Funeral Service:</strong> [Date, Time, Location]</p>
+    <p><strong>Burial:</strong> [Location, if applicable]</p>
+    <p>
+        [Include livestream info, memorial service details, or any special instructions.]
+    </p>
+</section>
+
+<section>
+    <h2>Memorial Contributions</h2>
+    <p>
+        In lieu of flowers, the family requests donations be made to [Charity/Organization] in [Name]’s memory.
+    </p>
+</section>
+
+<footer>
+    <p>“[Optional quote or meaningful phrase]”</p>
+</footer>
+
+</body>
+</html>
